@@ -14,3 +14,29 @@
 # Differential bundeling - support for older browsers
 # Diagnostics 
 # Error Handling
+
+/**
+ * Header
+ * logo
+ * navItems
+ * Body
+ * -search
+ * -restaurant container
+ * -restaurant card
+ * Footer
+ * -copyright
+ */
+
+/**
+ * 
+ * <div id="parent">
+  * <div id="child">
+ * <h1>Hello Nested Element</h1>
+ * <h2>Hello H2 Tag</h2>
+ * </div>
+ * <div id=child2>
+ * <h1>Hello Nested Element</h1>
+ *  <h2>Hello H2 Tag</h2>
+ * </div>
+ * </div>
+ */
